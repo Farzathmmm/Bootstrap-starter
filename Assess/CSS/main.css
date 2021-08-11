@@ -1,0 +1,33 @@
+@import url(bootstrap-icons-1.5.0/bootstrap-icons.css);
+
+.btn {
+    border-radius: 15px;
+    border: 0;
+}
+
+.btn-primary {
+    background-color: rgb(243, 88, 17);
+}
+
+.btn-primary:hover {
+background-color: rgb(41, 40, 39);
+}
+
+.nav-item {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.bg-custom {
+    background-color: rgb(208, 247, 233);
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.bar {
+   height: 10em;
+    color: rgb(224, 17, 17);
+}
+
